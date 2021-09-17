@@ -35,6 +35,7 @@ Sizes.parameters = {
     // The story now contains a description
     storyDescription: '4 sizes are now supported.',
   },
+  chromatic: { viewports: [375, 560, 768, 1024, 1400] },
 };
 
 export const Initials = (args) => (
