@@ -47,27 +47,31 @@ A quick look at the top-level files and directories included with this template.
     └── README.md
 
 
-1.  **`node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages).
+1.  **`.github/workflows`**: This directory contains the Github actions required by Chromatic.
 
-2.  **`public`**: This directory will contain the development and production build of the site.
+2.  **`.storybook`**: This directory contains Storybook configuration.
 
-3.  **`src`**: This directory will contain all of the code related to what you will see on your application.
+3.  **`node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages).
 
-4. **`.env`**: This file will contain the necessary environment variables for your application.
+4.  **`public`**: This directory will contain the development and production build of the site.
 
-5.  **`.gitignore`**: This file tells git which files it should not track or maintain during the development process of your project.
+5.  **`src`**: This directory will contain all of the code related to what you will see on your application.
 
-6.  **`build-storybook.log`**: Version Control for Storybook Components
+6. **`.env`**: This file will contain the necessary environment variables for your application.
 
-7.  **`CHANGELOG.md`**: Version Control for NPM Module and yarn/npm publish
+7.  **`.gitignore`**: This file tells git which files it should not track or maintain during the development process of your project.
 
-8. **`LICENSE`**: The template is licensed under the MIT licence.
+8.  **`build-storybook.log`**: Version Control for Storybook Components
 
-9. **`package.json`**: Standard manifest file for Node.js projects, which typically includes project specific metadata (such as the project's name, the author among other information). It's based on this file that npm will know which packages are necessary to the project.
+9.  **`CHANGELOG.md`**: Version Control for NPM Module and yarn/npm publish
 
-10. **`yarn.lock`**: This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(Do not change it manually).**
+10. **`LICENSE`**: The template is licensed under the MIT licence.
 
-11. **`README.md`**: A text file containing useful reference information about the project.
+11. **`package.json`**: Standard manifest file for Node.js projects, which typically includes project specific metadata (such as the project's name, the author among other information). It's based on this file that npm will know which packages are necessary to the project.
+
+12. **`yarn.lock`**: This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(Do not change it manually).**
+
+13. **`README.md`**: A text file containing useful reference information about the project.
 
 ## Learning Storybook
 
