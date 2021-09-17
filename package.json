@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@troysheed/storybook-design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -72,5 +72,10 @@
     "@storybook/react": "^6.3.8",
     "cross-env": "^7.0.3",
     "prettier": "^2.4.1"
-  }
+  },
+  "description": "Storybook Design System UI Boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/rawnet/storybook-design-system",
+  "author": "Troy <86826396+tsheed@users.noreply.github.com>",
+  "license": "MIT"
 }
