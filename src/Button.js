@@ -49,6 +49,7 @@ const StyledButton = styled.button`
   user-select: none;
   opacity: 1;
   margin: 0;
+  border: none;
   background: transparent;
   font-size: ${props => (props.size === SIZES.SMALL ? typography.size.s1 : typography.size.s2)}px;
   font-weight: ${typography.weight.extrabold};
