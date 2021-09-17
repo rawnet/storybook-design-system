@@ -34,6 +34,8 @@ This template ships with the main React configuration files you'll need to get u
 A quick look at the top-level files and directories included with this template.
 
     .
+    ├── .github/workflows
+    ├── .storybook
     ├── node_modules
     ├── public
     ├── src
