@@ -37,8 +37,10 @@ A quick look at the top-level files and directories included with this template.
     ├── node_modules
     ├── public
     ├── src
-    ├── .gitignore
     ├── .env
+    ├── .gitignore
+    ├── build-storybook.log
+    ├── CHANGELOG.md
     ├── LICENSE
     ├── package.json
     ├── yarn.lock
