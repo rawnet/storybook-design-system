@@ -57,13 +57,17 @@ A quick look at the top-level files and directories included with this template.
 
 5.  **`.gitignore`**: This file tells git which files it should not track or maintain during the development process of your project.
 
-6. **`LICENSE`**: The template is licensed under the MIT licence.
+6.  **`build-storybook.log`**: Version Control for Storybook Components
 
-7. **`package.json`**: Standard manifest file for Node.js projects, which typically includes project specific metadata (such as the project's name, the author among other information). It's based on this file that npm will know which packages are necessary to the project.
+7.  **`CHANGELOG.md`**: Version Control for NPM Module and yarn/npm publish
 
-8. **`yarn.lock`**: This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(Do not change it manually).**
+8. **`LICENSE`**: The template is licensed under the MIT licence.
 
-9. **`README.md`**: A text file containing useful reference information about the project.
+9. **`package.json`**: Standard manifest file for Node.js projects, which typically includes project specific metadata (such as the project's name, the author among other information). It's based on this file that npm will know which packages are necessary to the project.
+
+10. **`yarn.lock`**: This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(Do not change it manually).**
+
+11. **`README.md`**: A text file containing useful reference information about the project.
 
 ## Learning Storybook
 
