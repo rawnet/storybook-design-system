@@ -70,6 +70,7 @@
     "@storybook/node-logger": "^6.3.8",
     "@storybook/preset-create-react-app": "^3.2.0",
     "@storybook/react": "^6.3.8",
+    "auto": "^10.32.0",
     "cross-env": "^7.0.3",
     "prettier": "^2.4.1"
   },
