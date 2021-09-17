@@ -74,6 +74,9 @@
     "cross-env": "^7.0.3",
     "prettier": "^2.4.1"
   },
+  "optionalDependencies": {
+    "babel-loader": "8.1.0"
+  },
   "description": "Storybook Design System UI Boilerplate",
   "main": "index.js",
   "repository": "https://github.com/rawnet/storybook-design-system",
